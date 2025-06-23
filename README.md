@@ -104,10 +104,6 @@ Before running this project, make sure you have the following installed:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
 ## Contact
 
 Angelo Morales - [@TheRealAngelo](https://github.com/TheRealAngelo)
