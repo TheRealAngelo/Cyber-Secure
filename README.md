@@ -1,8 +1,5 @@
 # Cyber-Secure
 
-![Security](https://img.shields.io/badge/security-enhanced-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 A modern, secure authentication system with brute-force protection and an animated user interface.
 
 ## Features
