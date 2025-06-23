@@ -8,8 +8,7 @@ A modern, secure authentication API with brute-force protection and an animated 
 - Account lockout after 5 failed login attempts
 - Rate limiting to prevent brute force attacks
 - Password hashing with bcrypt
-- Modern, animated UI with cybersecurity theme
-- Responsive design that works on all devices
+- Responsive design 
 - MongoDB integration for user data storage
 
 ## Prerequisites
