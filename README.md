@@ -22,7 +22,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone the repository or download the source code
    ```bash
-   git clone https://github.com/yourusername/Cyber-Secure.git
+   git clone https://github.com/TheRealAngelo/Cyber-Secure.git
    cd Cyber-Secure
 
 2. npm install
