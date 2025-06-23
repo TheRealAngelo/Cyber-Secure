@@ -11,10 +11,6 @@ A modern, secure authentication system with brute-force protection and an animat
 -  Responsive animated design
 -  MongoDB integration for user data storage
 
-## Demo
-
-![Cyber-Secure Demo](https://example.com/demo.gif)
-
 ## Prerequisites
 
 Before running this project, make sure you have the following installed:
