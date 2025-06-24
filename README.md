@@ -104,8 +104,7 @@ Before running this project, make sure you have the following installed:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## Contact
 
-Angelo Morales - [@TheRealAngelo](https://github.com/TheRealAngelo)
+---
 
-Project Link: [https://github.com/TheRealAngelo/Cyber-Secure](https://github.com/TheRealAngelo/Cyber-Secure)
+<div align="center"> <p>Angelo Morales © 2025 Cyber Secure</p> </div>
